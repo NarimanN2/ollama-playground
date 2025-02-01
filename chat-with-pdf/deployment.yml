@@ -1,0 +1,40 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pdfrag-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: pdfrag
+  template:
+    metadata:
+      labels:
+        app: pdfrag
+    spec:
+      containers:
+      - name: pdfrag
+        image: your-dockerhub-username/pdfrag:latest
+        ports:
+        - containerPort: 8501
+        resources:
+          requests:
+            cpu: "100m"
+            memory: "128Mi"
+          limits:
+            cpu: "500m"
+            memory: "256Mi"
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pdfrag-service
+spec:
+  type: NodePort  #Please change to LoadBalancer if  you are using a cloud provider with LB support.
+  selector:
+    app: pdfrag
+  ports:
+  - port: 8501
+    targetPort: 8501
+    nodePort: 30001  # You can adjust the NodePort as needed based on the number you specify.
