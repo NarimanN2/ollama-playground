@@ -1,0 +1,8 @@
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+langgraph
+langgraph-swarm
+pycoingecko
+yfinance
