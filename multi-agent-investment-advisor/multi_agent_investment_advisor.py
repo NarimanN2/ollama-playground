@@ -81,6 +81,7 @@ def fetch_coin_info(coin_id: str):
     prices = [entry[1] for entry in price_history["prices"]]
 
     return {
+        "coin": coin_id,
         "description": coin_info['description']['en'],
         "market_cap_usd": coin_info['market_data']['market_cap']['usd'],
         "market_cap_rank": coin_info['market_cap_rank'],
