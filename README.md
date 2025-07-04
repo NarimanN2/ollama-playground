@@ -11,6 +11,7 @@ This repository contains the code for the projects I built using Ollama's open-s
 - [AI Scraper](/ai-scraper/README.md)
 - [AI Researcher](/ai-researcher/README.md)
 - [Multi-Agent AI Researcher (Supervisor Architecture)](/multi-agent-researcher/README.md)
+- [Multi-Agent AI Investment Advisor (Swarm Architecture)](/multi-agent-investment-advisor/README.md)
 - [Video Summarization](/video-summarization/README.md)
 - [Image Search](/image-search/README.md)
 - [OCR](/ocr/README.md)
