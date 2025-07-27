@@ -19,6 +19,7 @@ This repository contains the code for the projects I built using Ollama's open-s
 - [Emotion Detection](/emotion-detection/README.md)
 - [Text to SQL](/text-to-sql/README.md)
 - [AI Podcaster](/ai-podcaster/README.md)
+- [ACP Agents](/acp-agents/README.md)
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
