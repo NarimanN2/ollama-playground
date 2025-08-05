@@ -20,6 +20,7 @@ This repository contains the code for the projects I built using Ollama's open-s
 - [Text to SQL](/text-to-sql/README.md)
 - [AI Podcaster](/ai-podcaster/README.md)
 - [ACP Agents](/acp-agents/README.md)
+- [Agent with Memory](/agent-with-memory/README.md)
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
