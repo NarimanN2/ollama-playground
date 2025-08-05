@@ -1,0 +1,3 @@
+streamlit
+langchain_ollama
+langgraph
