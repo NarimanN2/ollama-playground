@@ -21,6 +21,7 @@ This repository contains the code for the projects I built using Ollama's open-s
 - [AI Podcaster](/ai-podcaster/README.md)
 - [ACP Agents](/acp-agents/README.md)
 - [Agent with Memory](/agent-with-memory/README.md)
+- [GPT-OSS Agent with MCP](/gpt-oss-agent-with-mcp/README.md)
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
