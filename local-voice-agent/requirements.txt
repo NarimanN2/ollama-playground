@@ -1,0 +1,7 @@
+langchain-core
+langchain-ollama
+openai-whisper
+piper-tts
+streamlit
+streamlit-audiorec
+numpy
