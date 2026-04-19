@@ -14,6 +14,7 @@ This repository contains the code for the projects I built using Ollama's open-s
 - [Agent with Memory](/agent-with-memory/README.md)
 - [MCP-Based Agent (GPT-OSS)](/gpt-oss-agent-with-mcp/README.md)
 - [ACP-Based Agents](/acp-agents/README.md)
+- [Karpathy's LLM Wiki](/llm-wiki/README.md)
 
 ## Practical Agents
 - [Web Scraping Agent](/ai-scraper/README.md)
