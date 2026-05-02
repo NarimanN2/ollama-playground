@@ -9,7 +9,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama import ChatOllama
 
 MODEL_NAME = "gemma4:e4b"
-OBSIDIAN_DIR = Path("PUT_YOUR_OBSIDIAN_PATH")
+OBSIDIAN_DIR = Path("/Users/nariman/Documents/nariman")
 RAW_DIR = OBSIDIAN_DIR / "Clippings"
 WIKI_DIR = OBSIDIAN_DIR / "AI Wiki"
 SOURCES_DIR = WIKI_DIR / "sources"

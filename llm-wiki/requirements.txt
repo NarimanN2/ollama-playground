@@ -1,2 +1,5 @@
+langchain
 langchain-core
 langchain-ollama
+langgraph
+streamlit
