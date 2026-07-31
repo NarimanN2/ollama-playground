@@ -1,0 +1,5 @@
+fastmcp
+langchain
+langchain_ollama
+langchain-mcp-adapters
+yfinance
