@@ -13,6 +13,7 @@ This repository contains the code for the projects I built using Ollama's open-s
 ## Agent Tooling & Protocols
 - [Agent with Memory](/agent-with-memory/README.md)
 - [MCP-Based Agent (GPT-OSS)](/gpt-oss-agent-with-mcp/README.md)
+- [Secure MCP Server & Client](/secure-mcp/README.md)
 - [ACP-Based Agents](/acp-agents/README.md)
 - [Karpathy's LLM Wiki](/llm-wiki/README.md)
 
