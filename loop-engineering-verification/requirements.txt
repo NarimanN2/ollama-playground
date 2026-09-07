@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-ollama
+langchain-tavily
+langgraph
+deepagents
